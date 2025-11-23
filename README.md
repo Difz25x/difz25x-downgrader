@@ -1,6 +1,6 @@
 # DIFZ25X ROBLOX
 
-![Version](https://img.shields.io/badge/version-1.0.0-black?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.0.1-black?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-white?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square)
 
