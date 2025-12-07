@@ -1,38 +1,38 @@
 [
     {
-        id: "volcano",
-        name: "Volcano",
-        version: "version-e380c8edc8f6477c",
-        platform: "Windows",
+        "id": "volcano",
+        "name": "Volcano",
+        "version": "version-e380c8edc8f6477c",
+        "platform": "Windows"
     },
     {
-        id: "xeno",
-        name: "Xeno",
-        version: "version-1849ecbff0824113",
-        platform: "Windows",
+        "id": "xeno",
+        "name": "Xeno",
+        "version": "version-1849ecbff0824113",
+        "platform": "Windows"
     },
     {
-        id: "macsploit",
-        name: "MacSploit",
-        version: "version-b43017492eb44083",
-        platform: "MACOS",
+        "id": "macsploit",
+        "name": "MacSploit",
+        "version": "version-b43017492eb44083",
+        "platform": "MACOS"
     },
     {
-        id: "delta-android",
-        name: "Delta Android",
-        version: "2.700.937-p1",
-        platform: "Android",
+        "id": "delta-android",
+        "name": "Delta Android",
+        "version": "2.700.937-p1",
+        "platform": "Android"
     },
     {
-        id: "ronix-android",
-        name: "Ronix Android",
-        version: "2.698.937",
-        platform: "Android",
+        "id": "ronix-android",
+        "name": "Ronix Android",
+        "version": "2.698.937",
+        "platform": "Android"
     },
     {
-        id: "delta-ios",
-        name: "Delta IOS",
-        version: "2.700.942",
-        platform: "IOS",
-    },
-];
+        "id": "delta-ios",
+        "name": "Delta IOS",
+        "version": "2.700.942",
+        "platform": "IOS"
+    }
+]
