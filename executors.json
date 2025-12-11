@@ -2,13 +2,13 @@
     {
         "id": "volcano",
         "name": "Volcano",
-        "version": "version-e380c8edc8f6477c",
+        "version": "version-eaebe135b3ec446b",
         "platform": "Windows"
     },
     {
         "id": "xeno",
         "name": "Xeno",
-        "version": "version-1849ecbff0824113",
+        "version": "version-eaebe135b3ec446b",
         "platform": "Windows"
     },
     {
@@ -26,7 +26,7 @@
     {
         "id": "ronix-android",
         "name": "Ronix Android",
-        "version": "2.698.937",
+        "version": "2.700.940",
         "platform": "Android"
     },
     {
